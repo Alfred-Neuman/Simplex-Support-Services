@@ -1025,7 +1025,7 @@
         </Key>
         <Key ID="STR_sss_common_strafeFinalApproach">
             <English>On final approach to location. Be ready...</English>
-            <French>En approche finale du lieu.  Être prêt...</French>
+            <French>En approche finale du lieu.  Soyez prêt...</French>
             <Chinesesimp>接近目标地点。准备好...</Chinesesimp>
         </Key>
         <Key ID="STR_sss_common_strafeFiring">
@@ -1054,7 +1054,7 @@
         </Key>
         <Key ID="STR_sss_common_remoteControlWarning">
             <English>Allow time for locality to transfer for full control...</English>
-            <French>Laissez le temps à la localité de se transférer pour un contrôle total...</French>
+            <French>Laissez le temps au transfert de localisation pour un contrôle total...</French>
             <Chinesesimp>请等待，正在获取控制中...</Chinesesimp>
         </Key>
         <Key ID="STR_SSS_common_ejectInterval_name">
